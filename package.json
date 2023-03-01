@@ -15,7 +15,7 @@
     "jsonfile": "^4.0.0",
     "node-run-cmd": "^1.0.1",
     "path": "^0.12.7",
-    "uuid": "^3.1.0"
+    "uuid": "^3.4.0"
   },
   "repository": {
     "type": "git",
