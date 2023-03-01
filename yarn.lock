@@ -615,9 +615,10 @@ diff@^3.2.0:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/diff/-/diff-3.4.0.tgz#b1d85507daf3964828de54b37d0d73ba67dda56c"
 
-dir-compare@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/dir-compare/-/dir-compare-1.4.0.tgz#afa00ab99c0fb1c412b48dc65e8f4378d257f006"
+dir-compare@^1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/dir-compare/-/dir-compare-1.8.0.tgz#5dbc06682c0492519c733f76f43452414d8167d0"
+  integrity sha512-Ork/J37pKE6M+Fvl98OB+iAuZ5CG7d2d8DIMmiCDEZVAbEWn2lp+ghSbc1lgkgVX91p8jMQs2DeTMJvpMeU9+A==
   dependencies:
     bluebird "3.4.1"
     buffer-equal "1.0.0"
